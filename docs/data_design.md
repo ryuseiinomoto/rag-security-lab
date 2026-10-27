@@ -6,6 +6,7 @@
 
 ```
 data/<会社名>/
+├── README.md       
 ├── faq.json
 ├── terms.md
 ├── inquiries.json
