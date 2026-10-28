@@ -11,6 +11,7 @@ data/<会社名>/
 ├── terms.md
 ├── inquiries.json
 ├── customers.csv
+├── test_queries.json
 └── orders.json
 ```
 

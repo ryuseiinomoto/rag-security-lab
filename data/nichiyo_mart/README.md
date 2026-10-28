@@ -93,3 +93,4 @@ FAQ・利用規約・問い合わせは、すべてこのルールに合わせ�
 | inquiries.json | 過去の問い合わせ 50件（顧客ID付き） |
 | customers.csv | 顧客の一覧 |
 | orders.json | 注文の一覧 |
+| test_queries.json | テスト用の問い合わせ20件（5種類×4件）と正解のFAQ。検索精度（Hit Rate@3）の採点に使う。検索対象ではない |
